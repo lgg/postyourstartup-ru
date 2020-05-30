@@ -1,6 +1,8 @@
 # Список ресурсов, где можно опубликовать свой стартап
 
 * [English version](./README-en.md)
+* [Международный список ресурсов](https://postyourstartup.com/)
+   * [github](https://github.com/backmeupplz/postyourstartup)
 
 ---
 
